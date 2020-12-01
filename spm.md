@@ -1,1 +1,1 @@
-spm is matlab based, but still useful
+spm is matlab based, but still the best tool ever!
